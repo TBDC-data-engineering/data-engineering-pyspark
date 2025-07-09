@@ -1,0 +1,43 @@
+[
+  {
+    "id": "1",
+    "user_info": {
+      "name": "Alice",
+      "age": 30,
+      "contact": {
+        "email": "alice@example.com",
+        "phone": "123-456-7890"
+      }
+    },
+    "orders": [
+      {
+        "order_id": "A1",
+        "product": "Laptop",
+        "quantity": 1
+      },
+      {
+        "order_id": "A2",
+        "product": "Mouse",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "user_info": {
+      "name": "Bob",
+      "age": 25,
+      "contact": {
+        "email": "bob@example.com",
+        "phone": "987-654-3210"
+      }
+    },
+    "orders": [
+      {
+        "order_id": "B1",
+        "product": "Keyboard",
+        "quantity": 1
+      }
+    ]
+  }
+]
